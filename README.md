@@ -1,6 +1,6 @@
 # 👋 Hola, soy Javier Herrera
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador backend con experiencia en el desarrollo de sistemas y aplicaciones web, enfocado principalmente en el uso del lenguaje de programación **Python** y frameworks como **Django**. Me apasiona la tecnología, la programación competitiva, y la creación de soluciones que generen un impacto positivo.
+Bienvenido a mi perfil de GitHub. Soy un desarrollador backend con experiencia en el desarrollo de sistemas y aplicaciones web, enfocado principalmente en el uso del lenguaje de programación **Python** y frameworks como **Django** o **FastAPI**. Me apasiona la tecnología, la programación competitiva, y la creación de soluciones que generen un impacto positivo.
 
 ---
 
@@ -15,8 +15,8 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador backend con experiencia e
 ## 🔧 Tecnologías y herramientas
 
 - **Lenguajes**: Python, HTML, CSS, JavaScript  
-- **Frameworks**: Django  
-- **Herramientas**: Git, GitHub  
+- **Frameworks**: Django, FastAPI
+- **Herramientas**: Git, GitHub, Docker
 - **Bases de datos**: MySQL, PostgreSQL
 
 ---
