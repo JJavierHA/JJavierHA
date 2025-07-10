@@ -17,10 +17,11 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador backend con experiencia e
 <br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JJavierHA&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JJavierHA&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JJavierHA&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JJavierHA&theme=prussian&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JJavierHA&theme=prussian&hide_border=false" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJavierHA&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</div>
 <br>
 
 ## 📫 Contacto
